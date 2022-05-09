@@ -1,0 +1,1 @@
+http://ogcws.geoide.upm.es:80/geoserver/topp/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=topp:states&maxFeatures=50&outputFormat=SHAPE-ZIP

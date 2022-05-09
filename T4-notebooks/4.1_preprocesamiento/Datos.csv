@@ -1,0 +1,11 @@
+Pais,Edad,Sueldo,Cliente
+Francia,44,72000,No
+Espanya,27,48000,Si
+Alemania,30,54000,No
+Espanya,38,61000,No
+Alemania,40,,Si
+Francia,35,58000,Si
+Espanya,,52000,No
+Francia,48,79000,Si
+Alemania,50,83000,No
+Francia,37,67000,Si
